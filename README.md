@@ -5,3 +5,7 @@ Augmented reality video imaging app for iPhone that superimposes funny text onto
 - Tim Sitoris
 - Yasmeen Roumie
 - Serena Chan
+
+
+##Open Source
+- If you'd like to use these files for your own project, feel free! Just mention our names in your code!
